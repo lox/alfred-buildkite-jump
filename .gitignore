@@ -1,0 +1,5 @@
+*.json
+vendor/
+alfred-buildkite-jump
+sqlite.db
+*.alfredworkflow
