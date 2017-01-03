@@ -189,7 +189,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>A workflow for indexing Buildkite pipelines and quickly opening them in your default browser.</string>
 	<key>uidata</key>
 	<dict>
 		<key>0A14AB01-D5B4-4AA4-9894-48EE61682A69</key>
@@ -231,10 +231,14 @@
 	<key>variables</key>
 	<dict>
 		<key>BUILDKITE_API_TOKEN</key>
-		<string>361f11cf9a2c662fee9942c22bd44b7c5fd956bb</string>
+		<string></string>
 	</dict>
+	<key>variablesdontexport</key>
+	<array>
+		<string>BUILDKITE_API_TOKEN</string>
+	</array>
 	<key>version</key>
-	<string></string>
+	<string>1.0.0</string>
 	<key>webaddress</key>
 	<string>https://github.com/lox</string>
 </dict>
