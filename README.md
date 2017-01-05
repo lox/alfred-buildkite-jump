@@ -6,7 +6,7 @@ A [workflow for Alfred 3](https://www.alfredapp.com/help/workflows/) for indexin
 
 ## Installation
 
-1. Generate a [Buildkite API Token](https://buildkite.com/user/api-access-tokens) with the `read_pipelines` permission.
+1. Generate a [Buildkite API Token](https://buildkite.com/user/api-access-tokens) with the `read_organisations` and `read_pipelines` permission.
 
 2. Install the latest version from the [releases page on Github](https://github.com/lox/alfred-buildkite-jump/releases). The configuration screen will open, click the [configure workflow and variables](https://lachlan.me/s/w768Cvri.png) `[X]` icon in the top right hand corner.
  
